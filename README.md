@@ -21,11 +21,11 @@ below). For more details about this environment
 
 <img src="img/map.svg" style="zoom:26%" />
 
-Following these steps, you can reproduced the result in our paper.
+Following these steps, you can reproduce the result in our paper.
 
 ## OS Environment
 All commends in this page are based on the Ubuntu 20.04 OS. You may need to adjust some commands to fit other Linux, 
-Windows, or Mac OS.
+Windows, or macOS.
 ## Remote training with docker
 We have already made a docker file for you. What you need to do is to launch it to build your docker image. You are 
 welcome to change the path yourself. You can build the docker image by:
